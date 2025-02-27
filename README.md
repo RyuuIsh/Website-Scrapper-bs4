@@ -22,4 +22,4 @@ A Python script that scrapes the Empire Online's list of the 100 Greatest Movies
 - Automate scraping for updated lists.
 - Integrate with a movie database API for additional details.
 
-🎥 Get your next movie recommendation from this curated list! 
+Do tell your extra knowledge about Web Scrapping 🎥 Get your next movie recommendation from this curated list! 
